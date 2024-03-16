@@ -1,3 +1,32 @@
+const display = document.getElementById("display");
+
+function appendToDisplay(input){
+    display.value += input;
+}
+
+function clearDisplay(){
+
+}
+
+function calculate(){
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // const calculator = document.querySelector(‘.calculator’)
 // const keys = calculator.querySelector(‘.calculator__keys’)
 
